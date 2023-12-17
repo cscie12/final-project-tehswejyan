@@ -107,7 +107,7 @@ header h2 {
    Styles for "Overview"
    ----------------------------- */
 main div.overview {
-   background-image: url(../images/white_background.avif);
+   background-image: url(../images/white-background.avif);
    background-size: cover;
    background-repeat: no-repeat;
    padding: 20px;
